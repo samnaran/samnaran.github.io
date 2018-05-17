@@ -7,4 +7,6 @@ I'm a practising data scientist interested in using Machine Learning, Deep Learn
 ## Forecasting
 ## Optimization
 
+[[Link Text|WikiLink]]
+
 
