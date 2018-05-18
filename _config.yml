@@ -1,2 +1,3 @@
-theme: jekyll-theme-cayman
+name: Sanjeewa Naranpanawe
+markdown: kramdown
 permalink: /blogs/:year/:month/:day/:title
